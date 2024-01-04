@@ -1,5 +1,5 @@
 // Rodrigo Ferreira Maceno
-// This program uses a custom implementation for appending an item to an array in Java.
+// This program uses a custom function for appending an item to an array in Java.
 
 import java.util.Arrays;
 
